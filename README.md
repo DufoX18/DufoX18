@@ -10,14 +10,12 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DufoX18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DufoX18&count_private=true&show_icons=true&theme=dracula&locale=en&hide_border=false&token=YOUR_GITHUB_TOKEN" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DufoX18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<br>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
