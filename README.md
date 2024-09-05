@@ -12,6 +12,7 @@
 </div>
 <br>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DufoX18&count_private=true&show_icons=true&theme=dracula&locale=en&hide_border=false&token=YOUR_GITHUB_TOKEN" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DufoX18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
@@ -29,6 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="visual studio code logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootst
+  <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" height="40" alt="apache netbeans logo" />
+  <img src="https://desktop.github.com/images/desktop-icon.svg" height="40" alt="github desktop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+ </div>
+
   
 
